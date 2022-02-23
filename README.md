@@ -17,4 +17,4 @@
   
   ##
   
-   ![Snake animation](https://github.com/mynlena/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/mynlena/mynlena/blob/output/github-contribution-grid-snake.svg)
